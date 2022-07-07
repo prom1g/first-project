@@ -15,7 +15,7 @@
   max-height: 756px;
   display: flex;
   background-color: #f2f2f2;
-  /* выше установили ограничения для секции */
+  
 }
 
 .logo_place_header {
@@ -342,10 +342,7 @@
   
 }
 
-.footer__content_social {
 
-
-}
 
 .footer__column_heading {
   line-height: 30px;
