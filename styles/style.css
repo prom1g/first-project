@@ -315,7 +315,7 @@
   display: flex;
   margin: auto;
   justify-content: space-between;
-  margin-bottom: 40px;
+  margin-bottom: 0;
 }
 
 .footer__column_content_copyright {
@@ -346,9 +346,7 @@
   
 }
 
-.footer__columns {
-  margin-bottom: 0;
-}
+
 
 .footer__column_heading {
   line-height: 30px;
