@@ -58,10 +58,10 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
-@import url(../blocks/footer/__column/__column-heading/footer__column-heading.css);
-@import url(../blocks/footer/__column/__column-link/footer__column-link.css);
-@import url(../blocks/footer/__column/__column-links/footer__column-links.css);
-@import url(../blocks/footer/__column/_content/footer__column-content_copyright.css);
+@import url(../blocks/footer/__column-heading/footer__column-heading.css);
+@import url(../blocks/footer/__column-link/footer__column-link.css);
+@import url(../blocks/footer/__column-links/footer__column-links.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 @import url(../blocks/resourses/__logo/resourses__logo.css);
-@import url(../blocks/page.css);
+@import url(../blocks/page/page.css);
